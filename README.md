@@ -1,5 +1,5 @@
 # AITool
-# ✨2023校招资料整理（持续更新中...)
+# ✨最新最全AI工具总结（持续更新中...)
 
 [![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Issues](https://img.shields.io/github/issues/Mapshiny/AITool?style=flat-square)](https://github.com/Mapshiny/CampusRecruit/issues)
